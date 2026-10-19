@@ -1,3 +1,3 @@
 # C---Practice
-C programming practice from my first semester at NGIT.
+C programming practice from my first semester.
 Folders are organized by topic.
